@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size:60px;
+    font-family:cursive;
+}
+#apps{
+    background-color: blue;
+}
+#games{
+    background-color: cornflowerblue;
+}
